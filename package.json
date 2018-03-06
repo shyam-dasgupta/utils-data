@@ -1,0 +1,25 @@
+{
+  "name": "utils-data",
+  "version": "1.0.0",
+  "description": "Utilities for various data type validations, comparisons and an advanced \"stringify\".",
+  "main": "utils-data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shyam-dasgupta/utils-data.git"
+  },
+  "keywords": [
+    "utilities",
+    "data",
+    "jsonstringify",
+    "stringify"
+  ],
+  "author": "Shyam Dasgupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shyam-dasgupta/utils-data/issues"
+  },
+  "homepage": "https://github.com/shyam-dasgupta/utils-data#readme"
+}
